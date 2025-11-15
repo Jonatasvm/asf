@@ -1,9 +1,0 @@
-{
-  "Enabled": true,
-  "FarmingPreferences": 8,
-  "GamesPlayedWhileIdle": [
-    227300
-  ],
-  "SteamLogin": "jonatasvmrm",
-  "SteamPassword": "1325798_Nard"
-}
